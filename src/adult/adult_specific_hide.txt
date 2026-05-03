@@ -106,3 +106,21 @@ rumahparaperjaka.*,rumahperjaka.*##.elementor-popup-modal
 videocrot.*##.ads-720
 wisatabkpindo.*###Floating-footer-banner
 sangevip.com##.promo-banner
+podjav.tv##.player-banner-ads-top
+podjav.tv##.sidebar-box:has(> div[data-banner-id])
+podjav.tv##.banner-ads
+podjav.tv##.banner-card-inner
+podjav.tv##.banner-card
+matapria.cam###floating-top-banner
+matapria.cam##.lin-ad-above
+filmjepang.it.com##.kln
+igobokep.*###GLOBAL-ADS-OVERLAY
+igobokep.*###GLOBAL-ADS-FLOAT
+artisbokep.site###top-floating-banner-inner
+artisbokep.site###floating-banner-inner
+artisbokep.site##.ab-top-video-banners
+artisbokep.site##.top-banner
+artisbokep.site##.banner-slide
+artisbokep.site###popupBannerOverlay
+filmjepangku.online##.kln
+bokep.pemersatu.top###myDiv
